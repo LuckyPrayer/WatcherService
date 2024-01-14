@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\LuckyPrayer\source\repos\WatcherService\WatcherService\bin\Debug\WatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LuckyPrayer\source\repos\WatcherService\WatcherService\bin\Debug\WatcherService.InstallLog
+   assemblypath = C:\Users\LuckyPrayer\source\repos\WatcherService\WatcherService\bin\Debug\WatcherService.exe
+Installing service WatcherService...
+Service WatcherService has been successfully installed.
+Creating EventLog source WatcherService in log Application...
+Committing assembly 'C:\Users\LuckyPrayer\source\repos\WatcherService\WatcherService\bin\Debug\WatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LuckyPrayer\source\repos\WatcherService\WatcherService\bin\Debug\WatcherService.InstallLog
+   assemblypath = C:\Users\LuckyPrayer\source\repos\WatcherService\WatcherService\bin\Debug\WatcherService.exe

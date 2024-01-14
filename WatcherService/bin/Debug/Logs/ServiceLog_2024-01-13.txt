@@ -1,0 +1,10 @@
+Service started at 2024-01-13 6:34:26 AM
+Service started at 2024-01-13 6:39:52 AM
+Process started - CDViewer.exe41522024-01-13 6:45:27 AM
+Process started - CDViewer.exe51122024-01-13 6:45:28 AM
+Process ended - CDViewer.exe41522024-01-13 6:45:28 AM
+Service stopped at 2024-01-13 6:53:14 AM
+Service started at 2024-01-13 6:53:22 AM
+Service stopped at 2024-01-13 6:53:47 AM
+Service started at 2024-01-13 6:54:00 AM
+Process ended - CDViewer.exe51122024-01-13 10:23:12 PM

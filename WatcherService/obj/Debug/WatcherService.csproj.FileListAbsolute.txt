@@ -1,0 +1,10 @@
+C:\Users\LuckyPrayer\source\repos\WatcherService\WatcherService\bin\Debug\WatcherService.exe.config
+C:\Users\LuckyPrayer\source\repos\WatcherService\WatcherService\bin\Debug\WatcherService.exe
+C:\Users\LuckyPrayer\source\repos\WatcherService\WatcherService\bin\Debug\WatcherService.pdb
+C:\Users\LuckyPrayer\source\repos\WatcherService\WatcherService\obj\Debug\WatcherService.csproj.AssemblyReference.cache
+C:\Users\LuckyPrayer\source\repos\WatcherService\WatcherService\obj\Debug\WatcherService.csproj.SuggestedBindingRedirects.cache
+C:\Users\LuckyPrayer\source\repos\WatcherService\WatcherService\obj\Debug\WatcherService.ProjectInstaller.resources
+C:\Users\LuckyPrayer\source\repos\WatcherService\WatcherService\obj\Debug\WatcherService.csproj.GenerateResource.cache
+C:\Users\LuckyPrayer\source\repos\WatcherService\WatcherService\obj\Debug\WatcherService.csproj.CoreCompileInputs.cache
+C:\Users\LuckyPrayer\source\repos\WatcherService\WatcherService\obj\Debug\WatcherService.exe
+C:\Users\LuckyPrayer\source\repos\WatcherService\WatcherService\obj\Debug\WatcherService.pdb
